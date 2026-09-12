@@ -1,0 +1,365 @@
+{
+  "schema_version": 1,
+  "assets": [
+    {
+      "original_url": "https://github.com/user-attachments/assets/8aa3ef2a-d86b-4979-8df9-6d5f54d7e839",
+      "path": "assignments/a-5-2/q13/8aa3ef2a-d86b-4979-8df9-6d5f54d7e839.png",
+      "sha256": "25b1a45ba3a885c996771fb1a1353123ed78af8fd87711078fd9b937eb32ed19",
+      "bytes": 1015788,
+      "media_type": "image/png",
+      "width": 1989,
+      "height": 1397
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/e6179f55-ef9b-4334-a8d0-e6e95f1c0c05",
+      "path": "assignments/a-6-1/q02/e6179f55-ef9b-4334-a8d0-e6e95f1c0c05.png",
+      "sha256": "894db87ff14e8cd7738cd0fe246d00c5ef5a2079ae23ded305989d00e5df7c63",
+      "bytes": 205536,
+      "media_type": "image/png",
+      "width": 2955,
+      "height": 1164
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/ebbd5b75-4ab5-469c-b956-4eb732c4461a",
+      "path": "assignments/a-7-1/q02/ebbd5b75-4ab5-469c-b956-4eb732c4461a.png",
+      "sha256": "155c27b643b086b9939aeef9b780a4dae0ec75d30019b65dd0cae8806bae340d",
+      "bytes": 434688,
+      "media_type": "image/png",
+      "width": 662,
+      "height": 480
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/e133ef1c-6c6a-4d81-92e1-9beaeb106461",
+      "path": "assignments/a-8-1/q02/e133ef1c-6c6a-4d81-92e1-9beaeb106461.png",
+      "sha256": "da5e14c84a04956198eb88ec34b9b4feefc7be79a4870723310465c7b07eea71",
+      "bytes": 32729,
+      "media_type": "image/png",
+      "width": 1287,
+      "height": 777
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/065c83ad-0519-4bb0-b2e3-05f78d6720db",
+      "path": "assignments/a-8-1/q03/065c83ad-0519-4bb0-b2e3-05f78d6720db.png",
+      "sha256": "92c795532f360df61a50accba2cbdc22eaba7904fefd3db56b39b10656ac4284",
+      "bytes": 4715488,
+      "media_type": "image/png",
+      "width": 1108,
+      "height": 1062
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/4d346eb3-f34b-4e10-8025-e8a91b217cfd",
+      "path": "assignments/a-8-2/q04/4d346eb3-f34b-4e10-8025-e8a91b217cfd.png",
+      "sha256": "90cec78529a1128bf5b3ec31e800331561f37bf204995b46afefa85fbff6a415",
+      "bytes": 535590,
+      "media_type": "image/png",
+      "width": 2402,
+      "height": 756
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/1a368049-75e2-486f-a263-2be3c132f847",
+      "path": "assignments/a-8-2/q05/1a368049-75e2-486f-a263-2be3c132f847.png",
+      "sha256": "bbd9be6fe099d2567efe61931be607ad6492f06885a06c614f29f1cb4e038b63",
+      "bytes": 80558,
+      "media_type": "image/png",
+      "width": 1122,
+      "height": 1020
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/422e09b4-fc66-49d9-8d2d-471435f0ef56",
+      "path": "assignments/a-8-2/q07/422e09b4-fc66-49d9-8d2d-471435f0ef56.png",
+      "sha256": "8ba49f94845e1de80b4539f511149fcfdf6496c92eed050c599dba678432b5bb",
+      "bytes": 46511,
+      "media_type": "image/png",
+      "width": 930,
+      "height": 805
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/6d5c786a-6cf2-4b8b-9fd4-a79dd585b7ba",
+      "path": "assignments/a-8-4/q02/6d5c786a-6cf2-4b8b-9fd4-a79dd585b7ba.png",
+      "sha256": "b940516f6242fa43322cb238b36d6ba49d612a563c7f76b444b9ac8bebd7b75d",
+      "bytes": 359064,
+      "media_type": "image/png",
+      "width": 774,
+      "height": 586
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/94f848f7-2b7d-4959-98c2-5647f2105b50",
+      "path": "assignments/a-8-5/q02/94f848f7-2b7d-4959-98c2-5647f2105b50.png",
+      "sha256": "f083050980ab8574edf1d35233a83bbaa3eda6cec34fe828cf6ed74f7e912513",
+      "bytes": 468104,
+      "media_type": "image/png",
+      "width": 896,
+      "height": 684
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/a92c61a8-43ff-4bc2-ace6-916d65043e25",
+      "path": "assignments/a-8-5/q03/a92c61a8-43ff-4bc2-ace6-916d65043e25.png",
+      "sha256": "2c4737afe6fddb07c0e393b5c3d0f18a4795fa8b5316d456d8a7c952713acaa4",
+      "bytes": 68495,
+      "media_type": "image/png",
+      "width": 768,
+      "height": 480
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/27ea751c-b347-4a46-995e-c2191a074f70",
+      "path": "assignments/a-8-5/q03/27ea751c-b347-4a46-995e-c2191a074f70.png",
+      "sha256": "afb8bdef57e03f43a8e391c8c0fa7f639958ea812ccba9e34fedc255ada718d0",
+      "bytes": 72967,
+      "media_type": "image/png",
+      "width": 640,
+      "height": 400
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/86329c85-4863-4daa-9a93-c8b3a3214aa6",
+      "path": "assignments/a-8-5/q12/86329c85-4863-4daa-9a93-c8b3a3214aa6.png",
+      "sha256": "5b16aa76bcf909a918e91c4a3d002fd6bccd1d6366983dbf918dbd9aa4cd4bf9",
+      "bytes": 15736,
+      "media_type": "image/png",
+      "width": 507,
+      "height": 248
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/076891ed-6a65-4380-8f08-a8cbfab73ce6",
+      "path": "assignments/a-8-6/q02/076891ed-6a65-4380-8f08-a8cbfab73ce6.png",
+      "sha256": "f440cd92bd2e1f4950cca880ca5e90255543cbd200e93a827c1f5cb6b45fef14",
+      "bytes": 29455,
+      "media_type": "image/png",
+      "width": 1078,
+      "height": 440
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/138d07b8-9d23-4c96-8e80-d39ead722690",
+      "path": "assignments/a-8-6/q03/138d07b8-9d23-4c96-8e80-d39ead722690.png",
+      "sha256": "cdf996b9d824a8a363b9ff2b3f8c5e7071eb44ae3b59e84e5c2789e800a9e618",
+      "bytes": 29834,
+      "media_type": "image/png",
+      "width": 902,
+      "height": 331
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/0d45f8bb-776c-455b-9d7a-397a17fa02d5",
+      "path": "assignments/a-8-6/q06/0d45f8bb-776c-455b-9d7a-397a17fa02d5.png",
+      "sha256": "34df9eaa1966356b3e56d1aa15492c87bdd9813d44eee2c81685753a39c61098",
+      "bytes": 22835,
+      "media_type": "image/png",
+      "width": 660,
+      "height": 746
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/9e567975-648d-4780-add5-e7c8218ec6a7",
+      "path": "assignments/a-8-6/q10/9e567975-648d-4780-add5-e7c8218ec6a7.png",
+      "sha256": "62c3ab0ef1ff96b3adf28a6c7c1849f234a2836dafdf4cd1f366b6609b0e2c8b",
+      "bytes": 17953,
+      "media_type": "image/png",
+      "width": 484,
+      "height": 435
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/97f164f8-443c-46f7-be70-9058b7566d6c",
+      "path": "assignments/a-8-6/q12/97f164f8-443c-46f7-be70-9058b7566d6c.png",
+      "sha256": "fa77b1ef30bf3ccbac8b9fc081f90037ca96b01c8b6d9545225f24cf6b89adc1",
+      "bytes": 42173,
+      "media_type": "image/png",
+      "width": 1298,
+      "height": 480
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/e36c0a61-2f50-4c32-8224-0f6988c0f661",
+      "path": "assignments/a-8-6/q13/e36c0a61-2f50-4c32-8224-0f6988c0f661.png",
+      "sha256": "9bbb9e839408888bcba4167892d58b71ec6321122d7ce0de19018f6a08d4f58e",
+      "bytes": 6212,
+      "media_type": "image/png",
+      "width": 636,
+      "height": 349
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/d62b6521-cbfe-40e5-9ede-5c9a2675cd60",
+      "path": "assignments/a-9-1/q04/d62b6521-cbfe-40e5-9ede-5c9a2675cd60.png",
+      "sha256": "a8036c6bac8ffb3d185bea9556168b23cd1543f8772f16b41c5af1734c7bf2ae",
+      "bytes": 34341,
+      "media_type": "image/png",
+      "width": 268,
+      "height": 292
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/b5e33b05-d45e-47d5-8f3c-d9da2f9654f4",
+      "path": "assignments/a-9-1/q04/b5e33b05-d45e-47d5-8f3c-d9da2f9654f4.png",
+      "sha256": "7bd5dd6c274dcb7c516ab6d6a30df72b3436d4a56a8e838f68485a6ccfa89f0e",
+      "bytes": 33378,
+      "media_type": "image/png",
+      "width": 277,
+      "height": 259
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/ba5940ec-07b0-44c4-a0c2-d60aea232e64",
+      "path": "assignments/a-9-1/q04/ba5940ec-07b0-44c4-a0c2-d60aea232e64.png",
+      "sha256": "253cf267bba8dd59aa6db489c64704b9e3ad8fbb258d1d3793761b6e4e48c84f",
+      "bytes": 26839,
+      "media_type": "image/png",
+      "width": 270,
+      "height": 307
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/61fd65c3-c0dc-4306-afd5-e0624b9b08ee",
+      "path": "assignments/a-9-1/q04/61fd65c3-c0dc-4306-afd5-e0624b9b08ee.png",
+      "sha256": "ac87b7727a4b702cf75ab2de5095c52e62ff3bfab4f8b213181d4b9071979157",
+      "bytes": 42615,
+      "media_type": "image/png",
+      "width": 293,
+      "height": 359
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/ef5eef04-a2ee-4eef-ba00-b8223bf4c8bd",
+      "path": "assignments/a-9-1/q04/ef5eef04-a2ee-4eef-ba00-b8223bf4c8bd.png",
+      "sha256": "4ce4bedef2a0fb0af840215b8fa1c3984a3bda4a954f8e4cd5fe41f5a3b802f0",
+      "bytes": 29186,
+      "media_type": "image/png",
+      "width": 252,
+      "height": 293
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/895cc3d6-345f-4231-981b-ccfd94c172d8",
+      "path": "assignments/a-9-1/q04/895cc3d6-345f-4231-981b-ccfd94c172d8.png",
+      "sha256": "dbd8b8e8f866ca35d372a483bd5e967d2eba4096c8c1cecc0bfacfb4d11668db",
+      "bytes": 28784,
+      "media_type": "image/png",
+      "width": 258,
+      "height": 285
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/06c7404b-ef37-4635-8c3e-2bcbd14f33d4",
+      "path": "assignments/a-4-1/q17/06c7404b-ef37-4635-8c3e-2bcbd14f33d4.png",
+      "sha256": "66e436eee43c1af386abe8c499682e51fd46bc9e2273b3ae37919f7858221b21",
+      "bytes": 182543,
+      "media_type": "image/png",
+      "width": 800,
+      "height": 566
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/fb99225e-dd43-46bc-9327-fe3172c7f8d0",
+      "path": "assignments/a-4-1/q16/fb99225e-dd43-46bc-9327-fe3172c7f8d0.png",
+      "sha256": "9005afa7dd97169874fa32681881c3ce671f8c0908634555104486e5d8626b75",
+      "bytes": 121533,
+      "media_type": "image/png",
+      "width": 800,
+      "height": 505
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/f2745ea4-5993-4711-8f2e-8ff5348ede37",
+      "path": "assignments/a-4-1/q11/f2745ea4-5993-4711-8f2e-8ff5348ede37.png",
+      "sha256": "7eb2bd532f786dc8d102cc08ad0239301e36164cd8c46a7568c799e8a68149c9",
+      "bytes": 292188,
+      "media_type": "image/png",
+      "width": 800,
+      "height": 328
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/ba35c229-1d01-4bc9-9885-083abff4ad97",
+      "path": "assignments/a-4-1/q07/ba35c229-1d01-4bc9-9885-083abff4ad97.png",
+      "sha256": "7a733ba7096770011715ea2ea526424ecc965dc94b42a5476ef17d4aa4a5193e",
+      "bytes": 68752,
+      "media_type": "image/png",
+      "width": 685,
+      "height": 227
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/1347dc89-9a6c-4bc9-a680-46c73aa66a34",
+      "path": "assignments/a-4-1/q03/1347dc89-9a6c-4bc9-a680-46c73aa66a34.jpg",
+      "sha256": "713de822db0e9049c27ae1e35c7de7ac3a168b655638806c90b5af5fbeb92db2",
+      "bytes": 57407,
+      "media_type": "image/jpeg",
+      "width": 800,
+      "height": 594
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/2917bcfc-00ed-4165-a12a-9bc50f419a9f",
+      "path": "assignments/a-4-1/q02/2917bcfc-00ed-4165-a12a-9bc50f419a9f.png",
+      "sha256": "f23c44cce138faf29b09d259e25fa290def6838c8168642200f061900cea5eea",
+      "bytes": 537521,
+      "media_type": "image/png",
+      "width": 800,
+      "height": 601
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/091f5105-b51c-4f8c-a4e8-68ac83b1f565",
+      "path": "assignments/a-4-2/q06/091f5105-b51c-4f8c-a4e8-68ac83b1f565.png",
+      "sha256": "bc67ab4c29a48d9d50c479393198cdf1dc5181329cacbd44b2764e7523962582",
+      "bytes": 6000,
+      "media_type": "image/png",
+      "width": 240,
+      "height": 90
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/614b2488-a2e0-42a1-ae2c-d42d0828d95d",
+      "path": "assignments/a-4-2/q06/614b2488-a2e0-42a1-ae2c-d42d0828d95d.png",
+      "sha256": "b01ff30920c1a52d3162a1d9a19a94ef0bbe2267281dbc3d20e1cf81b2f9dad7",
+      "bytes": 7366,
+      "media_type": "image/png",
+      "width": 234,
+      "height": 90
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/14d3aa0e-8b67-440d-93d7-f5918f7951d8",
+      "path": "assignments/a-4-2/q06/14d3aa0e-8b67-440d-93d7-f5918f7951d8.png",
+      "sha256": "0fe11c8686e7025296844b2434fbe633870eb0d3ba27b4b0349c52d92ea5b689",
+      "bytes": 6710,
+      "media_type": "image/png",
+      "width": 231,
+      "height": 90
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/9e77a09f-52b3-4238-bfa6-4f0a7a768c1f",
+      "path": "assignments/a-4-2/q06/9e77a09f-52b3-4238-bfa6-4f0a7a768c1f.png",
+      "sha256": "4ca757d5868c1a4d724f61f73d4ce3ac3e58a478d11e149f6e4b64f14db0660d",
+      "bytes": 7718,
+      "media_type": "image/png",
+      "width": 234,
+      "height": 90
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/398819eb-1663-4c5b-9297-79e18f29eaf5",
+      "path": "assignments/a-4-2/q06/398819eb-1663-4c5b-9297-79e18f29eaf5.png",
+      "sha256": "0ba5882a3e0b71ba4ad152c544f9b87e455a1af910fa21ef50adc75f485ddb24",
+      "bytes": 10083,
+      "media_type": "image/png",
+      "width": 269,
+      "height": 90
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/a2995dfb-f79c-4d55-ad2c-819942525278",
+      "path": "assignments/a-4-2/q02/a2995dfb-f79c-4d55-ad2c-819942525278.png",
+      "sha256": "50e891804b2495843459808024653b662a7468bfda4dc5e807b430b25d191c1e",
+      "bytes": 24080,
+      "media_type": "image/png",
+      "width": 560,
+      "height": 181
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/52d96b89-6912-44fa-ae59-f7dcf70e4b59",
+      "path": "assignments/a-4-3/q23/52d96b89-6912-44fa-ae59-f7dcf70e4b59.png",
+      "sha256": "a9c8f90128c85eadc7a32676b598feeb2bc665356dcaa3eba3af930784e2639c",
+      "bytes": 124795,
+      "media_type": "image/png",
+      "width": 489,
+      "height": 600
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/e5d2630e-2b77-496c-b8ce-58821f5c084b",
+      "path": "assignments/a-4-3/q17/e5d2630e-2b77-496c-b8ce-58821f5c084b.png",
+      "sha256": "cd1ba1636e3608f1a8513ea641a65c76a8ee0059dc104cc6df02c2c0670e279b",
+      "bytes": 1468069,
+      "media_type": "image/png",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "original_url": "https://github.com/user-attachments/assets/f61e9a90-43cd-4402-a35c-695ae240e3e8",
+      "path": "assignments/a-4-3/q06/f61e9a90-43cd-4402-a35c-695ae240e3e8.png",
+      "sha256": "bdc3cbe6cda2b331aa1acb7b1f23f39aab7d5da32e51848b9f208fbc657c5cc7",
+      "bytes": 609330,
+      "media_type": "image/png",
+      "width": 1085,
+      "height": 922
+    }
+  ]
+}
