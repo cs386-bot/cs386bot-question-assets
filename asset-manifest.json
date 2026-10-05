@@ -360,6 +360,15 @@
       "media_type": "image/png",
       "width": 1085,
       "height": 922
+    },
+    {
+      "original_url": "https://github.com/cs386-bot/cs386bot-question-assets/blob/1ca2b57e77d750451cb10329ccf122da2a702fbb/assignments/live-6-2/q02/enrollment-model.png",
+      "path": "assignments/live-6-2/q02/enrollment-model-multiplicities.png",
+      "sha256": "1cecf6ee5a275b6b7d64f0085072bb733e5ca7617eada598aaab9ef75f7f739d",
+      "bytes": 1001070,
+      "media_type": "image/png",
+      "width": 2172,
+      "height": 724
     }
   ]
 }
