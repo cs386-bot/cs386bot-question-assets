@@ -369,6 +369,33 @@
       "media_type": "image/png",
       "width": 2172,
       "height": 724
+    },
+    {
+      "source": "Instructor-reviewed A-8.2 public reference diagram",
+      "path": "assignments/a-8-2/q02/client-design-v1.png",
+      "sha256": "cdbd9ef81cd9ae9aa495e50850074d80d43c0ad80501e14c4d854cfc30540066",
+      "bytes": 37738,
+      "media_type": "image/png",
+      "width": 1700,
+      "height": 718
+    },
+    {
+      "source": "Instructor-reviewed A-8.2 public reference diagram",
+      "path": "assignments/a-8-2/q04/person-design-v1.png",
+      "sha256": "2c134eb594dddc6ea7a8ae1fedb92d2d4414dcc8639b1032677276d07bc5a211",
+      "bytes": 40270,
+      "media_type": "image/png",
+      "width": 1700,
+      "height": 718
+    },
+    {
+      "source": "Instructor-reviewed A-8.2 public reference diagram",
+      "path": "assignments/a-8-2/q07/add-user-sequence-v2.png",
+      "sha256": "777a5ba282eddf50c8e430bab0c57a262e523fd86c4d91faacdb8f7abff86b9c",
+      "bytes": 76249,
+      "media_type": "image/png",
+      "width": 1800,
+      "height": 1620
     }
   ]
 }
